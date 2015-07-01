@@ -2,10 +2,10 @@
 function hi()
 {
     
-    echo "hi";
+    echo "hi123";
     
 }
-function hello()
+function hello123()
 {
     
     echo "hi";
